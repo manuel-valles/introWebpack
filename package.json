@@ -1,0 +1,27 @@
+{
+  "name": "introwebpack",
+  "version": "1.0.0",
+  "description": "Trying another modules bundler",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "Nothing yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manukempo/introWebpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Manuel Valles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manukempo/introWebpack/issues"
+  },
+  "homepage": "https://github.com/manukempo/introWebpack#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "webpack": "^3.2.0"
+  }
+}
